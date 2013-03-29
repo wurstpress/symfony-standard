@@ -1,0 +1,3 @@
+wurstpress_backend:
+    resource: "@WurstpressCoreBundle/Resources/config/routing.yml"
+    prefix:   /wp-admin
